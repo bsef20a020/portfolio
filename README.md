@@ -2,7 +2,7 @@
 
 Personal portfolio of **Noor Fatima**, Software Engineer & Full-Stack Developer based in Lahore, Pakistan. A single-page site showcasing projects, skills, and experience, with a working contact form.
 
-🔗 **Live:** _add your deployment URL here_
+🔗 **Live:** https://portfolio-eight-nu-s2i4tgt2zb.vercel.app/
 
 ---
 
