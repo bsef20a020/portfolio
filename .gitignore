@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Local-only env overrides (the committed .env holds the public Formspree
+# endpoint so `vite build` works on deploy; put real secrets in .env.local)
+.env.local
+.env.*.local
